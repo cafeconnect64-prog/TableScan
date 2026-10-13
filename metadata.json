@@ -1,0 +1,6 @@
+{
+  "name": "TableTap - Smart Table-Top QR Portal & B2B SaaS",
+  "description": "Multi-tenant B2B SaaS table-top customer portal. Instant QR code table stands, interactive digital menus, digital loyalty stamp cards, one-tap Wi-Fi, Google review booster, and table-side games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
